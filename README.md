@@ -1,5 +1,5 @@
 # 🎤BTS
-***Turns on microphone and changes your speech to text***.
+***A BTS website meant for simps and for weird people who love koreans👀***.
 
 # 👨‍🎨Technologies
 * Visual Studio Code
